@@ -1,0 +1,12 @@
+C:\Users\Shival\Desktop\Airtribe\TaskManager\TaskManager\taskmanager\src\main\java\com\shreyash\taskmanager\enums\TaskStatus.java
+C:\Users\Shival\Desktop\Airtribe\TaskManager\TaskManager\taskmanager\src\main\java\com\shreyash\taskmanager\enums\Priority.java
+C:\Users\Shival\Desktop\Airtribe\TaskManager\TaskManager\taskmanager\src\main\java\com\shreyash\taskmanager\dto\TaskRequestDto.java
+C:\Users\Shival\Desktop\Airtribe\TaskManager\TaskManager\taskmanager\src\main\java\com\shreyash\taskmanager\exception\GlobalExceptionHandler.java
+C:\Users\Shival\Desktop\Airtribe\TaskManager\TaskManager\taskmanager\src\main\java\com\shreyash\taskmanager\service\TaskService.java
+C:\Users\Shival\Desktop\Airtribe\TaskManager\TaskManager\taskmanager\src\main\java\com\shreyash\taskmanager\controller\TaskController.java
+C:\Users\Shival\Desktop\Airtribe\TaskManager\TaskManager\taskmanager\src\main\java\com\shreyash\taskmanager\dto\TaskResponseDto.java
+C:\Users\Shival\Desktop\Airtribe\TaskManager\TaskManager\taskmanager\src\main\java\com\shreyash\taskmanager\exception\TaskNotFoundException.java
+C:\Users\Shival\Desktop\Airtribe\TaskManager\TaskManager\taskmanager\src\main\java\com\shreyash\taskmanager\service\TaskServiceImpl.java
+C:\Users\Shival\Desktop\Airtribe\TaskManager\TaskManager\taskmanager\src\main\java\com\shreyash\taskmanager\TaskManagerApplication.java
+C:\Users\Shival\Desktop\Airtribe\TaskManager\TaskManager\taskmanager\src\main\java\com\shreyash\taskmanager\repository\TaskRepository.java
+C:\Users\Shival\Desktop\Airtribe\TaskManager\TaskManager\taskmanager\src\main\java\com\shreyash\taskmanager\entity\Task.java
